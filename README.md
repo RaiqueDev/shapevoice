@@ -12,7 +12,7 @@ pessoa que contribuíu para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-      ![FotoPerfil](https://user-images.githubusercontent.com/96999326/188709886-97b56e4a-f10e-4e2d-a5df-d233706d1f1e.png)
+      ![image](https://user-images.githubusercontent.com/96999326/188710203-fb289f7e-6a71-47ea-a2dd-e2a35187b156.png)
         <sub>
           <b>Raique Ramos</b>
         </sub>
@@ -20,5 +20,3 @@ pessoa que contribuíu para este projeto:
     </td>
   </tr>
 </table>
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
